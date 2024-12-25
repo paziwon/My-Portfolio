@@ -1,0 +1,3 @@
+[submodule "win98-js-fun"]
+	path = win98-js-fun
+	url = https://github.com/djbritt/win98-js-fun.git
