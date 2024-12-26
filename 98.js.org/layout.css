@@ -304,3 +304,8 @@ html, body {
 #webamp-context-menu {
 	z-index: 5000000 !important;
 }
+
+h2 {
+	display: block; /* Ensure it is a block element */
+	visibility: visible; /* Ensure it is visible */
+}
